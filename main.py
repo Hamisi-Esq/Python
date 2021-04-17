@@ -16,3 +16,8 @@ print(type(L2))
 tup =("apple","mango","orange","banana")
 print(type(tup))
 print(tup)
+# tup = ("apple","Orange","Mango","Banana")
+# tup[2]= "guava"
+# print(tup)
+# this  throws an error because tuples Aare immutable
+
